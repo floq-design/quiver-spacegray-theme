@@ -106,14 +106,14 @@
         "borderColor": "#434a58"
       },
       "tagField": {
-        "textColor": "#999",
-        "placeholderColor": "#aaa",
+        "textColor": "#ccc",
+        "placeholderColor": "#999",
         "tag": {
-          "textColor": "#000",
+          "textColor": "#ccc",
           "selectedTextColor": "#fff",
-          "backgroundColor": "#cadff3",
-          "selectedBackgroundColor": "#6caff1",
-          "borderRadius": 4
+          "backgroundColor": "#576071",
+          "selectedBackgroundColor": "#576071",
+          "borderRadius": 2
         }
       },
       "formatBar": {
@@ -126,7 +126,7 @@
         "pressedControlColor": "#fff",
         "backgroundColor": "#393f4b",
         "borderColor": "#4d535d",
-        "placeholderColor": "#b8b8b8"
+        "placeholderColor": "#999"
       },
       "doneButton": {
         "textColor": "#a5a5a5",
@@ -152,17 +152,17 @@
       "highlightBorderColor": "#dcdfe5"
     },
     "tagField": {
-      "textColor": "#444",
-      "placeholderColor": "#b8b8b8",
-      "backgroundColor": "#fff",
-      "borderColor": "#fff",
-      "borderRadius": 4,
+      "textColor": "#ccc",
+      "placeholderColor": "#999",
+      "backgroundColor": "#31373d",
+      "borderColor": "#434a58",
+      "borderRadius": 2,
       "tag": {
-        "textColor": "#000",
+        "textColor": "#ccc",
         "selectedTextColor": "#fff",
-        "backgroundColor": "#cadff3",
-        "selectedBackgroundColor": "#6caff1",
-        "borderRadius": 4
+        "backgroundColor": "#576071",
+        "selectedBackgroundColor": "#576071",
+        "borderRadius": 2
       }
     }
   },
@@ -236,7 +236,7 @@
   "css": {
     "className": "spacegray",
     "editor": ".spacegray{color:#ddd}.spacegray a{color:#fff}.spacegray table tr:nth-child(even){background-color:#434a58}.spacegray table th{background:#2b3137}.spacegray table td,.spacegray table th{border-color:#576071}.spacegray blockquote{color:#fff}.spacegray hr{background-color:#576071}.spacegray code{background-color:rgba(255,255,255,.1)}.spacegray svg{background-color:#fff}.spacegray .text-cell [style]{color:#ccc!important;background-color:transparent!important}.spacegray .diagram-cell .ace_editor,.spacegray .latex-cell .ace_editor,.spacegray .markdown-cell .ace_editor{color:#c7c7c7;background-color:#2b3137}.spacegray .markdown-cell .ace_list{color:#c7c7c7}.spacegray .cell.inEditMode{border-color:#576071;}",
-    "preview": ".spacegray{color:#ddd}.spacegray a{color:#fff}.spacegray table tr:nth-child(even){background-color:#434a58}.spacegray table th{background:#2b3137}.spacegray table td,.spacegray table th{border-color:#576071}.spacegray blockquote{color:#fff}.spacegray hr{background-color:#576071}.spacegray code{background-color:rgba(255,255,255,.1)}.spacegray svg{background-color:#fff}.spacegray .text-cell [style]{color:#c7c7c7!important;background-color:transparent!important}",
+    "preview": ".spacegray{color:#ddd}.spacegray a{color:#fff}.spacegray table tr:nth-child(even){background-color:#434a58}.spacegray table th{background:#2b3137}.spacegray table td,.spacegray table th{border-color:#576071}.spacegray blockquote{color:#fff}.spacegray hr{background-color:#576071}.spacegray code{background-color:rgba(255,255,255,.1)}.spacegray svg{background-color:#fff}.spacegray .text-cell [style]{color:#c7c7c7!important;background-color:transparent!important}.spacegray #tag-field{margin:8px 2px;}.spacegray #tag-field .tag{display:inline-block;background:#576071;border-radius:2px;padding:1px 8px;color:#ccc;font-size:12px;margin-right:10px;line-height:1.4;}",
     "presentation": ".spacegray{color:#ddd}.spacegray a{color:#fff}.spacegray table tr:nth-child(even){background-color:#434a58}.spacegray table th{background:#2b3137}.spacegray table td,.spacegray table th{border-color:#576071}.spacegray blockquote{color:#fff}.spacegray hr{background-color:#576071}.spacegray code{background-color:rgba(255,255,255,.1)}.spacegray svg{background-color:#fff}.spacegray .text-cell [style]{color:#c7c7c7!important;background-color:transparent!important}"
   }
 }
